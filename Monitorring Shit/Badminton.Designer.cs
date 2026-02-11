@@ -46,6 +46,7 @@
             textBox1.Location = new Point(26, 26);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
             textBox1.Size = new Size(528, 64);
             textBox1.TabIndex = 0;
             textBox1.Text = "Badminton Courts";
@@ -75,6 +76,7 @@
             textStat1.Location = new Point(223, 676);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
+            textStat1.ReadOnly = true;
             textStat1.Size = new Size(174, 26);
             textStat1.TabIndex = 3;
             textStat1.Text = "Court Status";
@@ -89,6 +91,7 @@
             textBox2.Location = new Point(686, 676);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(174, 26);
             textBox2.TabIndex = 4;
             textBox2.Text = "Court Status";

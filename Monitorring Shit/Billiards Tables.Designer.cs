@@ -58,6 +58,7 @@
             textBox3.Location = new Point(779, 416);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
+            textBox3.ReadOnly = true;
             textBox3.Size = new Size(174, 26);
             textBox3.TabIndex = 18;
             textBox3.Text = "Table Status";
@@ -80,6 +81,7 @@
             textBox2.Location = new Point(462, 416);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(174, 26);
             textBox2.TabIndex = 16;
             textBox2.Text = "Table Status";
@@ -94,6 +96,7 @@
             textStat1.Location = new Point(123, 416);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
+            textStat1.ReadOnly = true;
             textStat1.Size = new Size(174, 26);
             textStat1.TabIndex = 15;
             textStat1.Text = "Table Status";
@@ -124,6 +127,7 @@
             textBox1.Location = new Point(28, 27);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
             textBox1.Size = new Size(528, 64);
             textBox1.TabIndex = 12;
             textBox1.Text = "Billiards Tables";
@@ -137,6 +141,7 @@
             textBox4.Location = new Point(779, 782);
             textBox4.Multiline = true;
             textBox4.Name = "textBox4";
+            textBox4.ReadOnly = true;
             textBox4.Size = new Size(174, 26);
             textBox4.TabIndex = 24;
             textBox4.Text = "Table Status";
@@ -159,6 +164,7 @@
             textBox5.Location = new Point(462, 782);
             textBox5.Multiline = true;
             textBox5.Name = "textBox5";
+            textBox5.ReadOnly = true;
             textBox5.Size = new Size(174, 26);
             textBox5.TabIndex = 22;
             textBox5.Text = "Table Status";
@@ -173,6 +179,7 @@
             textBox6.Location = new Point(123, 782);
             textBox6.Multiline = true;
             textBox6.Name = "textBox6";
+            textBox6.ReadOnly = true;
             textBox6.Size = new Size(174, 26);
             textBox6.TabIndex = 21;
             textBox6.Text = "Table Status";

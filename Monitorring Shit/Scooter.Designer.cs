@@ -49,6 +49,7 @@
             textBox3.Location = new Point(775, 549);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
+            textBox3.ReadOnly = true;
             textBox3.Size = new Size(174, 26);
             textBox3.TabIndex = 18;
             textBox3.Text = "Scooter Status";
@@ -71,6 +72,7 @@
             textBox2.Location = new Point(460, 549);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(174, 26);
             textBox2.TabIndex = 16;
             textBox2.Text = "Scooter Status";
@@ -85,6 +87,7 @@
             textStat1.Location = new Point(119, 549);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
+            textStat1.ReadOnly = true;
             textStat1.Size = new Size(174, 26);
             textStat1.TabIndex = 15;
             textStat1.Text = "Scooter Status";
@@ -115,6 +118,7 @@
             textBox1.Location = new Point(25, 29);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
             textBox1.Size = new Size(528, 64);
             textBox1.TabIndex = 12;
             textBox1.Text = "Scooters";
