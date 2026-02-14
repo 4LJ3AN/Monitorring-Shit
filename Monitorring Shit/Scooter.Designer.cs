@@ -46,7 +46,7 @@
             textBox3.BorderStyle = BorderStyle.None;
             textBox3.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textBox3.ForeColor = Color.FromArgb(57, 57, 63);
-            textBox3.Location = new Point(775, 549);
+            textBox3.Location = new Point(952, 539);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
             textBox3.ReadOnly = true;
@@ -57,7 +57,7 @@
             // 
             // pictureBox3
             // 
-            pictureBox3.Location = new Point(758, 212);
+            pictureBox3.Location = new Point(935, 202);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(208, 311);
             pictureBox3.TabIndex = 17;
@@ -69,7 +69,7 @@
             textBox2.BorderStyle = BorderStyle.None;
             textBox2.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textBox2.ForeColor = Color.FromArgb(57, 57, 63);
-            textBox2.Location = new Point(460, 549);
+            textBox2.Location = new Point(637, 539);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;
@@ -84,7 +84,7 @@
             textStat1.BorderStyle = BorderStyle.None;
             textStat1.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textStat1.ForeColor = Color.FromArgb(57, 57, 63);
-            textStat1.Location = new Point(119, 549);
+            textStat1.Location = new Point(296, 539);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
             textStat1.ReadOnly = true;
@@ -95,7 +95,7 @@
             // 
             // pictureBox2
             // 
-            pictureBox2.Location = new Point(441, 212);
+            pictureBox2.Location = new Point(618, 202);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(208, 311);
             pictureBox2.TabIndex = 14;
@@ -103,7 +103,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(97, 212);
+            pictureBox1.Location = new Point(274, 202);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(208, 311);
             pictureBox1.TabIndex = 13;
@@ -136,7 +136,7 @@
             Controls.Add(pictureBox1);
             Controls.Add(textBox1);
             Name = "Scooter";
-            Size = new Size(1074, 838);
+            Size = new Size(1378, 838);
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

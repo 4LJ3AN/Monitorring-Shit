@@ -46,11 +46,11 @@
             textBox2.BorderStyle = BorderStyle.None;
             textBox2.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textBox2.ForeColor = Color.FromArgb(57, 57, 63);
-            textBox2.Location = new Point(462, 546);
+            textBox2.Location = new Point(607, 612);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;
-            textBox2.Size = new Size(174, 26);
+            textBox2.Size = new Size(215, 30);
             textBox2.TabIndex = 9;
             textBox2.Text = "Court Status";
             textBox2.TextAlign = HorizontalAlignment.Center;
@@ -61,28 +61,28 @@
             textStat1.BorderStyle = BorderStyle.None;
             textStat1.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textStat1.ForeColor = Color.FromArgb(57, 57, 63);
-            textStat1.Location = new Point(121, 546);
+            textStat1.Location = new Point(266, 612);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
             textStat1.ReadOnly = true;
-            textStat1.Size = new Size(174, 26);
+            textStat1.Size = new Size(215, 30);
             textStat1.TabIndex = 8;
             textStat1.Text = "Court Status";
             textStat1.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox2
             // 
-            pictureBox2.Location = new Point(443, 209);
+            pictureBox2.Location = new Point(588, 194);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(208, 311);
+            pictureBox2.Size = new Size(249, 392);
             pictureBox2.TabIndex = 7;
             pictureBox2.TabStop = false;
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(99, 209);
+            pictureBox1.Location = new Point(244, 194);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(208, 311);
+            pictureBox1.Size = new Size(249, 392);
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
             // 
@@ -102,9 +102,9 @@
             // 
             // pictureBox3
             // 
-            pictureBox3.Location = new Point(760, 209);
+            pictureBox3.Location = new Point(905, 194);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(208, 311);
+            pictureBox3.Size = new Size(249, 392);
             pictureBox3.TabIndex = 10;
             pictureBox3.TabStop = false;
             // 
@@ -114,11 +114,11 @@
             textBox3.BorderStyle = BorderStyle.None;
             textBox3.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textBox3.ForeColor = Color.FromArgb(57, 57, 63);
-            textBox3.Location = new Point(777, 546);
+            textBox3.Location = new Point(922, 612);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
             textBox3.ReadOnly = true;
-            textBox3.Size = new Size(174, 26);
+            textBox3.Size = new Size(215, 30);
             textBox3.TabIndex = 11;
             textBox3.Text = "Court Status";
             textBox3.TextAlign = HorizontalAlignment.Center;
@@ -136,7 +136,7 @@
             Controls.Add(pictureBox1);
             Controls.Add(textBox1);
             Name = "Table_Tennis";
-            Size = new Size(1074, 838);
+            Size = new Size(1378, 838);
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();

@@ -53,7 +53,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(131, 130);
+            pictureBox1.Location = new Point(293, 146);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(354, 519);
             pictureBox1.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // pictureBox2
             // 
-            pictureBox2.Location = new Point(593, 130);
+            pictureBox2.Location = new Point(755, 146);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(354, 519);
             pictureBox2.TabIndex = 2;
@@ -73,7 +73,7 @@
             textStat1.BorderStyle = BorderStyle.None;
             textStat1.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textStat1.ForeColor = Color.FromArgb(57, 57, 63);
-            textStat1.Location = new Point(223, 676);
+            textStat1.Location = new Point(385, 692);
             textStat1.Multiline = true;
             textStat1.Name = "textStat1";
             textStat1.ReadOnly = true;
@@ -88,7 +88,7 @@
             textBox2.BorderStyle = BorderStyle.None;
             textBox2.Font = new Font("Verdana", 12F, FontStyle.Bold);
             textBox2.ForeColor = Color.FromArgb(57, 57, 63);
-            textBox2.Location = new Point(686, 676);
+            textBox2.Location = new Point(848, 692);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;
@@ -108,7 +108,7 @@
             Controls.Add(pictureBox1);
             Controls.Add(textBox1);
             Name = "Badminton";
-            Size = new Size(1074, 838);
+            Size = new Size(1378, 838);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
