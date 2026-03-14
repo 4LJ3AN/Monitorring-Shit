@@ -23,6 +23,7 @@ namespace Monitorring_Shit
             slides = new List<UserControl>()
     {
                 new Home(),
+                new Rates(),
                 new Badminton(),
                 new Table_Tennis(),
                 new Billiards_Tables(),

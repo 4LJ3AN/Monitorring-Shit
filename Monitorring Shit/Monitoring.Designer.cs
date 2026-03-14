@@ -38,7 +38,7 @@
             panelMain.Dock = DockStyle.Fill;
             panelMain.Location = new Point(0, 0);
             panelMain.Name = "panelMain";
-            panelMain.Size = new Size(1378, 838);
+            panelMain.Size = new Size(1427, 818);
             panelMain.TabIndex = 1;
             // 
             // Monitoring
@@ -46,7 +46,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1378, 838);
+            ClientSize = new Size(1427, 818);
             Controls.Add(panelMain);
             Name = "Monitoring";
             StartPosition = FormStartPosition.CenterScreen;
