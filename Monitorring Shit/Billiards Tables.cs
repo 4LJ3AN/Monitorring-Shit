@@ -48,16 +48,16 @@ namespace Monitorring_Shit
                     targetTextBox = textBox3;
                     break;
                 case 4:
-                    targetPictureBox = pictureBox6;
-                    targetTextBox = textBox6;
+                    targetPictureBox = pictureBox4;
+                    targetTextBox = textBox4;
                     break;
                 case 5:
                     targetPictureBox = pictureBox5;
                     targetTextBox = textBox5;
                     break;
                 case 6:
-                    targetPictureBox = pictureBox4;
-                    targetTextBox = textBox4;
+                    targetPictureBox = pictureBox6;
+                    targetTextBox = textBox6;
                     break;
             }
 
@@ -120,11 +120,11 @@ namespace Monitorring_Shit
                 case 3:
                     return textBox3.Text.Replace("Table ", "");
                 case 4:
-                    return textBox6.Text.Replace("Table ", "");
+                    return textBox4.Text.Replace("Table ", "");
                 case 5:
                     return textBox5.Text.Replace("Table ", "");
                 case 6:
-                    return textBox4.Text.Replace("Table ", "");
+                    return textBox6.Text.Replace("Table ", "");
                 default:
                     return "Unknown";
             }
