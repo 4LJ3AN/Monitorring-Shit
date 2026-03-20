@@ -102,6 +102,11 @@ namespace Monitorring_Shit
             this.Opacity = 1;
             InitializeSlideshow();
         }
+
+        private void panelMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 
 }

@@ -40,6 +40,7 @@
             panelMain.Name = "panelMain";
             panelMain.Size = new Size(1427, 818);
             panelMain.TabIndex = 1;
+            panelMain.Paint += panelMain_Paint;
             // 
             // Monitoring
             // 
